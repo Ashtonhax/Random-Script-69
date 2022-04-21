@@ -1,1 +1,10 @@
+javascript: let sign = prompt("Would you like to see johnathon?");
 
+if (sign.toLowerCase = "yes") {
+  let sign = prompt("are you sure?")
+  }
+if (sign.toLowerCase = "yes") {
+  alert("OK!")
+  
+  }
+javascript:(function(){    var johnathon = document.createElement('img');    johnathon.src='https://im5.ezgif.com/tmp/ezgif-5-1b5d262511.jpg';    johnathon.alt='john!';    johnathon.style.position='fixed';    johnathon.style.left='0';    johnathon.style.top='10%';    document.body.appendChild(johnathon);})();
