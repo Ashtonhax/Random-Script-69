@@ -1,0 +1,10 @@
+javascript: let sign = prompt("Would you like to see oscar?");
+
+if (sign.toLowerCase = "yes") {
+  let sign = prompt("are you sure?")
+  }
+if (sign.toLowerCase = "yes") {
+  alert("OK!")
+  
+  }
+javascript:(function(){    var oscar = document.createElement('img');    oscar.src='https://im5.ezgif.com/tmp/ezgif-5-f6e573579f.jpg';    oscar.alt='ASHTON!';    oscar.style.position='fixed';    oscar.style.left='0';    oscar.style.top='10%';    document.body.appendChild(oscar);})();
