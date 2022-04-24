@@ -7,4 +7,4 @@ if (sign.toLowerCase = "yes") {
   alert("OK!")
   
   }
-javascript:(function(){    var ash = document.createElement('img');    ash.src='https://im5.ezgif.com/tmp/ezgif-5-ff2a7a69e3.jpg';    ash.alt='ASHTON!';    ash.style.position='fixed';    ash.style.left='0';    ash.style.top='10%';    document.body.appendChild(ash);})();
+javascript:(function(){    var ash = document.createElement('img');    ash.src='https://ibb.co/FW0Pmb6';    ash.alt='ASHTON!';    ash.style.position='fixed';    ash.style.left='0';    ash.style.top='10%';    document.body.appendChild(ash);})();
